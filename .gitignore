@@ -1,2 +1,5 @@
 **/.idea
 **/out
+**/build
+**/.gradle
+**/*.class
